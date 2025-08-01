@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views"/>
-</p>
-
 ### Hi there, I'm CHEN WEI JIAN 👋
 
 <p align="left">
