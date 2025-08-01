@@ -1,7 +1,7 @@
 ### Hi there, I'm CHEN WEI JIAN 👋
 
 <p align="left">
-  I'm a second-year Computer Science student at <strong>[Your University]</strong> in Johor Bahru, Malaysia. 
+  I'm a second-year Computer Science student at <strong>University Malaysia Sabah</strong> in Malaysia. 
   <br/>
   I'm passionate about Machine Learning, Data Science, and using code to solve real-world problems.
 </p>
