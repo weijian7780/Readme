@@ -9,11 +9,8 @@
 ---
 
 🌱 **I’m currently learning:**
-* Advanced SQL for complex data analysis.
+* JavaScript, HTML, CSS and React
 
-🚀 **I'm working on:**
-* My Malaysian Food Classifier project (see below!).
-* Preparing for the TensorFlow Developer Certification.
 
 ---
 
