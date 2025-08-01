@@ -31,15 +31,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-``
-**Machine Learning / Data Science:**
-<p>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-``
 **Tools:**
 <p>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -49,19 +40,7 @@
 
 ---
 
-### ✨ My Projects
-
-Here are a few projects I've worked on. You can find more in my repositories!
-
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| 🇲🇾 **Malaysian Food Classifier** | A web app that identifies pictures of local dishes using a custom-trained CNN model. | [GitHub Repo](https://github.com/yourusername/food-classifier) |
-| 💬 **Twitter Sentiment Analysis** | Analyzed public sentiment on a local topic using Python and NLP techniques. | [GitHub Repo](https://github.com/yourusername/sentiment-analysis) |
-
----
-
 ### 📫 How to Reach Me
-
 
 <p>
   <a href="https://github.com/weijian7780"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
