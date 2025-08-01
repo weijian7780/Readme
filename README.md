@@ -64,8 +64,8 @@ Here are a few projects I've worked on. You can find more in my repositories!
 ### 📫 How to Reach Me
 
 <p>
-  <a href="mailto:your.professional.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://github.com/weijian7780" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="www.linkedin.com/in/伟建-曾-b49307114" /></a>
 </p>
 
 ---
