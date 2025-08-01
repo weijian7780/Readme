@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views"/>
 </p>
 
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm CHEN WEI JIAN 👋
 
 <p align="left">
   I'm a second-year Computer Science student at <strong>[Your University]</strong> in Johor Bahru, Malaysia. 
